@@ -119,10 +119,6 @@ Evaluation Metrics:
 
 ---
 
-## 👩‍💻 Author
-
-**Anamika Singh Raj**  
-Aspiring Data Analyst | Machine Learning Enthusiast
 
 
 
